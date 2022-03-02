@@ -1,6 +1,6 @@
 #README for the LDaCA website
 
-The theme used is [LoveIt theme] (https://hugoloveit.com/) and has been customised throughout. The theme installation is a sub-module and alterations have been made in many different places.
+The theme used is [LoveIt theme](https://hugoloveit.com/){:target="_blank"} and has been customised throughout. The theme installation is a sub-module and alterations have been made in many different places.
 
 - Customised SCSS files are located in the assets folder.
 - Customised layouts in the layout folder.
@@ -13,7 +13,7 @@ Because the theme is installed as a sub-module - do not manually commit this to 
 There shouldn't be any more layout changes needed to the site. 
 
 All the content is in markdown files in the content folder. The
-[Markdown Cheat Sheet] (https://www.markdownguide.org/cheat-sheet/) is very helpful when formatting using markdown! HTML tags can also be used for formatting, just be aware that HTML and markdown often don't play nicely without a blank line in between them.
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/){:target="_blank"} is very helpful when formatting using markdown! HTML tags can also be used for formatting, just be aware that HTML and markdown often don't play nicely without a blank line in between them. The [LoveIt Extended Shortcodes](https://hugoloveit.com/theme-documentation-extended-shortcodes/){:target="_blank"} page may help with some of this as well.
 
 New markdown pages created in the content folder will need to be linked to from one of the primary pages (Blog, Text Analysis, Resources, and Organisation). New markdown files generated within the posts folder will automatically show up on the blog page.
 
