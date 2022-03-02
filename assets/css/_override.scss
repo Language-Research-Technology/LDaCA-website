@@ -1,0 +1,117 @@
+// ==============================
+// Override Variables
+// 覆盖变量
+// ==============================
+
+// _variables.scss customisation
+// Height of the header
+$header-height: 5rem;
+
+// Color of the header background
+$header-background-color: #ffffff;
+$header-background-color-dark: #252627;
+
+
+body {
+    background-color: #2459AD;
+    margin: 0px;
+    padding: 0px;
+    
+    font-size: 1.2rem;
+    line-height: 150%;
+}
+
+.wrapper {
+    //background-color: #88DD88; // mint
+}
+
+.main {
+    position: relative;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    //background-color: #339911; // dk green
+}
+
+.container {
+    //background-color: #3366AA; // dk blue
+    //width: 1600px;
+}
+
+.page {
+    //background-color: #662288; //purple
+    margin-top: 100px;
+    padding: 100px;
+    //Commented out in _index.scss to force _override.scss to work
+    max-width: 65%;
+}
+
+.home {
+    //background-color: #668855; //khaki
+    width: 80%;
+    margin-top: 100px;
+    padding: 100px;
+}
+
+img.homepage {
+    margin-left: 40px;
+    padding-bottom: 50px;;
+}
+
+hr.dots {
+    border-top: 17px dotted;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    width: 120px;
+    spacing: 25px;
+}
+
+h1.custom {
+    font-size: 92px;
+    line-height: 500%;
+    font-weight: bold;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+h2.custom {
+    font-size: 22px;
+    line-height: 150%;
+    font-weight: normal;
+    //margin-top: 150px;
+    //margin-bottom: 120px;
+}
+
+h3.custom {
+    font-size: 20px;
+    line-height: 200%;
+    font-weight: normal;
+}
+
+// ========== Variable Overrides ========== //
+
+// Height of the header
+$header-height: 20.5rem;
+
+// Color of the secondary text
+$global-font-secondary-color: #e34e25;
+$global-font-secondary-color-dark: #e34e25;
+
+// Color of the link
+$global-link-color: #e34e25;
+$global-link-color-dark: #e34e25;
+
+// Color of the hover link
+$global-link-hover-color: #a72300;
+$global-link-hover-color-dark: #a72300;
+
+// Color of the single link
+$single-link-color: #e34e25;
+$single-link-color-dark: #e34e25;
+
+// Color of the hover single link
+$single-link-hover-color: #a72300;
+$single-link-hover-color-dark: #a72300;
+
