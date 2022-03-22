@@ -1,0 +1,22 @@
+---
+title: "case-studies"
+date: 2022-02-15T17:13:28+10:00
+draft: false
+---
+## Fieldwork in Papua New Guinea
+<br />
+<br />
+
+## Fieldwork in Sydney
+<br />
+<br />
+
+## Data in a Language Centre
+<br />
+<br />
+
+## Archival data
+<br />
+<br />
+
+Back to [Language Data](../data/)

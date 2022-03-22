@@ -89,12 +89,12 @@ theme = "LoveIt"
     title = ""
     weight = 2
   [[menu.main]]
-    identifier = "TBD"
+    identifier = "language data"
     pre = ""
     post = ""
-    name = ""
-    url = ""
-    title = ""
+    name = "Language Data"
+    url = "data/"
+    title = "Language Data"
     weight = 3
   [[menu.main]]
     identifier = "resources"
@@ -145,9 +145,9 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "Australian Text Analytics Platform"
-  email = "info @ atap.edu.au"
-  link = "http://www.atap.edu.au"
+  name = "Language Data Commons of Australia"
+  email = "info @ ldaca.edu.au"
+  link = "http://www.ldaca.edu.au"
 
 # Sitemap config
 [sitemap]
