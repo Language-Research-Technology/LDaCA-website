@@ -4,10 +4,10 @@
 
 Written by Simon Musgrave
 
-<br />
-Data is becoming increasingly important in today’s world, so corpus linguists might feel that the rest of the world is finally catching up. But the rest of the world are bringing with them new approaches to how data is handled. This means that fields such as corpus linguistics may need to reassess their practices. Such reassessment includes addressing concerns about how data is stored and who can access it (data stewardship) – concerns that area part of the Open Science movement, ultimately grounded on principles of equity and accountability. 
-<br /><br />
-The most influential approach to data stewardship today is the FAIR principles.
+
+Data is becoming increasingly important in today’s world, so corpus linguists might feel that the rest of the world is finally catching up. But the rest of the world are bringing with them new approaches to how data is handled. This means that fields such as corpus linguistics may need to reassess their practices. Such reassessment includes addressing concerns about how data is stored and who can access it (data stewardship) – concerns that are a part of the [Open Science](https://en.wikipedia.org/wiki/Open_science) movement, ultimately grounded on principles of equity and accountability. 
+
+The most influential approach to data stewardship today is the [FAIR](https://www.go-fair.org/) principles.
 According to these principles, data should be:
 - *Findable* 
 <br />
@@ -22,13 +22,15 @@ According to these principles, data should be:
 <br />
 &emsp; The ultimate goal of FAIR is to optimise the reuse of data. To achieve this, metadata and data should be well-described so that they can be replicated and/or combined in different settings.
 <br /><br />
+
 In general, corpus linguists do well on the interoperability criterion. Corpus data is usually stored in non-proprietary formats; even when some structure is imposed on the data, this is almost always in a form which is saved as a simple text file (e.g. csv files or xml annotations). Data stored in such formats is easy to move between applications. But what about the other three criteria? 
 
-Some corpus data is easy to discover; it is findable. For example CLARIN, the portal to the European Union language resource infrastructure, provides access to many large data collections, as does the Linguistic Data Consortium in the USA. However, some data is never made part of a large collection and often remains under the control of individual researchers or research teams. Such data may be almost impossible to find. Even if we can find such data, it is unlikely to be accompanied by good descriptions of the data and metadata, making reusability problematic. Of course, big corpora such as the British National Corpus will be both findable and accompanied by comprehensive corpus manuals. However, it is worth considering how to make other corpora more findable, including the provision of corpus manuals or corpus descriptions. Corpus resource databases such as the Corpus Resource Database (CoRD) do aim to work towards this principle.
+Some corpus data is easy to discover; it is findable. For example CLARIN, the [portal](https://www.clarin.eu/content/data) to the European Union language resource infrastructure, provides access to many large data collections, as does the [Linguistic Data Consortium](https://www.ldc.upenn.edu/) in the USA. However, some data is never made part of a large collection and often remains under the control of individual researchers or research teams. Such data may be almost impossible to find. Even if we can find such data, it is unlikely to be accompanied by good descriptions of the data and metadata, making reusability problematic. Of course, big corpora such as the [British National Corpus](http://www.natcorp.ox.ac.uk/) will be both findable and accompanied by comprehensive corpus manuals. However, it is worth considering how to make other corpora more findable, including the provision of corpus manuals or corpus descriptions. Corpus resource databases such as [CoRD](https://varieng.helsinki.fi/CoRD/) do aim to work towards this principle.
 
 Accessibility may also be an issue for some data. Copyright law may allow use of material for individual research but prohibit any further distribution of the material. The FAIR approach to such cases is that metadata should be available so that interested parties can know that a data holding exists (F), and the metadata will include information about the conditions under which the data may or may not be shared or reused (A and R). 
-<br /><br />
-(Image from Global Indigenous Data Alliance https://www.gida-global.org/)
+
+{{< figure src="/fair-care.png" alt="FAIR and CARE principles" >}}
+Image from Global Indigenous Data Alliance (https://www.gida-global.org/)
 <br /><br />
 For linguists, there is another very important set of principles concerning data, the CARE principles developed by the Global Indigenous Data Alliance:
 <br />
@@ -59,7 +61,7 @@ Acquiring data for linguistic research takes effort and often that means money. 
 <hr />
 <br />
 
-Note: This post is based on the presentation ‘Advance Australia FAIR’,  given by Simon Musgrave and Michael Haugh to the 4th Forum on Englishes in Australia (LaTrobe University, August 27, 2021). You can access a recording of the presentation here. 
+Note: This post is based on the presentation ‘Advance Australia FAIR’,  given by Simon Musgrave and Michael Haugh to the 4th Forum on Englishes in Australia (LaTrobe University, August 27, 2021). 
 
 <br />
 
@@ -68,7 +70,7 @@ Thanks to Leah Gustafson and Monika Bednarek for helpful comments on drafts.
 <br />
 
 **Reference:**
-Cameron, Deborah, Elizabeth Frazer, Penelope Harvey, Ben Rampton & Kay Richardson. 1993. Ethics, advocacy and empowerment: Issues of method in researching language. Language & Communication 13(2). 81–94. https://doi.org/10.1016/0271-5309(93)90001-4.
+Cameron, Deborah, Elizabeth Frazer, Penelope Harvey, Ben Rampton & Kay Richardson. 1993. Ethics, advocacy and empowerment: Issues of method in researching language. Language & Communication 13(2). 81–94. [https://doi.org/10.1016/0271-5309(93)90001-4](https://doi.org/10.1016/0271-5309(93)90001-4)
 
 
 
