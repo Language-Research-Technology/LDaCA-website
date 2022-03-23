@@ -1,4 +1,4 @@
-# case-studies
+# Case-studies
 
 ## Fieldwork in Papua New Guinea
 <br />
