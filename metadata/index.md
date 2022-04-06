@@ -1,8 +1,6 @@
 # Metadata
 
 
-[Glottolog](#glottologhttpsglottologorg)
-
 Metadata is often defined as 'data about data'. High quality metadata is important in making data FAIR:
 - Findable: metadata is the starting point for searching data collections. For example, if we want to find data in a particular language, this will only be possible for data which has a language recorded in its metadata. (Tracking languages is in itself problematic, see [below](#identifying-codes-for-languages).)
 - Accessible: access conditions which apply to data should be part of the associated metadata.
