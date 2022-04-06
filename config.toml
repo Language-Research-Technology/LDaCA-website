@@ -13,7 +13,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "Introducing ATAP - the Australian Text Analytics Platform."
+  description = "Introducing the Language Data Commons of Australia."
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -193,9 +193,9 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "Australian Text Analytics Platform"
-  email = "info @ atap.edu.au"
-  link = "http://www.atap.edu.au"
+  name = "Language Data Comons of Australia"
+  email = "info @ ldaca.edu.au"
+  link = "http://www.ldaca.edu.au"
 
 # Sitemap config
 [sitemap]
