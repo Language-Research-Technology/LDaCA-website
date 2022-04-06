@@ -6,16 +6,16 @@ draft: false
 [Indigenous Knowledge](#indigenous-knowledge) &emsp; [Ethics](#ethics) &emsp; [Language Archives](#language-archives) &emsp; [Tools](#tools) &emsp; [Publications](#publications) &emsp; [Languages of the World](#languages-of-the-world) &emsp; [Australian Organisations](#australian-organisations) &emsp; [International Organisations](#international-organisations)
 ### Indigenous knowledge 
 
-[Protocols](https://australiacouncil.gov.au/wp-content/uploads/2021/07/protocols-for-using-first-nati-5f72716d09f01.pdf) for using First Nations Cultural and Intellectual Property in the Arts (Australia Council)
+- [Protocols](https://australiacouncil.gov.au/wp-content/uploads/2021/07/protocols-for-using-first-nati-5f72716d09f01.pdf) for using First Nations Cultural and Intellectual Property in the Arts (Australia Council)
 
-Citing indigenous elders and knowledge keepers
-- [Templates For Citing Indigenous Elders and Knowledge Keepers](https://kula.uvic.ca/index.php/kula/article/view/135) (Lorisia Macleod)
-- University of Alberta Library's [Guide](https://guides.library.ualberta.ca/c.php?g=715568&p=5112574)
-- University of Alberta Library's [blog](https://news.library.ualberta.ca/blog/2022/01/27/citing-indigenous-elders-and-knowledge-keepers/)
+- Citing indigenous elders and knowledge keepers
+    - [Templates For Citing Indigenous Elders and Knowledge Keepers](https://kula.uvic.ca/index.php/kula/article/view/135) (Lorisia Macleod)
+    - University of Alberta Library's [Guide](https://guides.library.ualberta.ca/c.php?g=715568&p=5112574)
+    - University of Alberta Library's [blog](https://news.library.ualberta.ca/blog/2022/01/27/citing-indigenous-elders-and-knowledge-keepers/)
  
-Decolonising linguistics: [Spinning a better yarn](https://www.dynamicsoflanguage.edu.au/ialr/decolonising-linguistics-spinning-a-better-yarn/) 
+- Decolonising linguistics: [Spinning a better yarn](https://www.dynamicsoflanguage.edu.au/ialr/decolonising-linguistics-spinning-a-better-yarn/) 
 
-Rawlings, V, Flexner, J L, Riley, L (eds.) (2021) *[Community-Led Research: Walking New Pathways Together](https://open.sydneyuniversitypress.com.au/files/9781743327630.pdf)*. Sydney University Press
+- Rawlings, V, Flexner, J L, Riley, L (eds.) (2021) *[Community-Led Research: Walking New Pathways Together](https://open.sydneyuniversitypress.com.au/files/9781743327630.pdf)*. Sydney University Press
 
 #### Indigenous Languages of Australia
 
@@ -34,16 +34,16 @@ Rawlings, V, Flexner, J L, Riley, L (eds.) (2021) *[Community-Led Research: Walk
 
 ### Ethics
 
-Australian Institute of Aboriginal and Torres Strait Islander Studies [Code of ethics](https://aiatsis.gov.au/research/ethical-research/code-ethics)
+- Australian Institute of Aboriginal and Torres Strait Islander Studies [Code of ethics](https://aiatsis.gov.au/research/ethical-research/code-ethics)
 
-Australian Linguistic Society [policies](https://als.asn.au/AboutALS/Policies): includes Policy on Linguistic rights of Aboriginal and Islander communities and Statement of Ethics.
+- Australian Linguistic Society [policies](https://als.asn.au/AboutALS/Policies): includes Policy on Linguistic rights of Aboriginal and Islander communities and Statement of Ethics.
 
-[Australian Code for the Responsible Conduct of Research, 2018](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018)
+- [Australian Code for the Responsible Conduct of Research, 2018](https://www.nhmrc.gov.au/about-us/publications/australian-code-responsible-conduct-research-2018)
 
-Linguistic Society of America: 
+- Linguistic Society of America: 
 
-- [Ethics Statement 2019](https://www.linguisticsociety.org/content/lsa-revised-ethics-statement-approved-july-2019)
-- [Further resources](https://www.linguisticsociety.org/resource/ethics-further-resources)
+    - [Ethics Statement 2019](https://www.linguisticsociety.org/content/lsa-revised-ethics-statement-approved-july-2019)
+    - [Further resources](https://www.linguisticsociety.org/resource/ethics-further-resources)
 
 ### Language Archives
 
@@ -70,21 +70,21 @@ The Living Archive of Aboriginal Languages is a digital archive of endangered li
 - [The Open Handbook of Linguistic Data Management](https://direct.mit.edu/books/book/5244/The-Open-Handbook-of-Linguistic-Data-Management) 
 Edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, Lauren B. Collister. MIT Press 2022.
 
-"A guide to principles and methods for the management, archiving, sharing, and citing of linguistic research data, especially digital data. “Doing language science” depends on collecting, transcribing, annotating, analyzing, storing, and sharing linguistic research data. This volume offers a guide to linguistic data management, engaging with current trends toward the transformation of linguistics into a more data-driven and reproducible scientific endeavor. It offers both principles and methods, presenting the conceptual foundations of linguistic data management and a series of case studies, each of which demonstrates a concrete application of abstract principles in a current practice."
+    "A guide to principles and methods for the management, archiving, sharing, and citing of linguistic research data, especially digital data. “Doing language science” depends on collecting, transcribing, annotating, analyzing, storing, and sharing linguistic research data. This volume offers a guide to linguistic data management, engaging with current trends toward the transformation of linguistics into a more data-driven and reproducible scientific endeavor. It offers both principles and methods, presenting the conceptual foundations of linguistic data management and a series of case studies, each of which demonstrates a concrete application of abstract principles in a current practice."
 
-This material is Open Access.
+    This material is Open Access.
 
 - [Language Documentation and Conservation](https://nflrc.hawaii.edu/ldc/)
 
-“LD&C publishes papers on all topics related to language documentation and conservation, including, but not limited to, the goals of language documentation, data management, fieldwork methods, ethical issues, orthography design, reference grammar design, lexicography, methods of assessing ethnolinguistic vitality, archiving matters, language planning, areal survey reports, short field reports on endangered or underdocumented languages, reports on language maintenance, preservation, and revitalization efforts, plus software, hardware, and book reviews.”
+    “LD&C publishes papers on all topics related to language documentation and conservation, including, but not limited to, the goals of language documentation, data management, fieldwork methods, ethical issues, orthography design, reference grammar design, lexicography, methods of assessing ethnolinguistic vitality, archiving matters, language planning, areal survey reports, short field reports on endangered or underdocumented languages, reports on language maintenance, preservation, and revitalization efforts, plus software, hardware, and book reviews.”
 
-LD&C is an Open Access journal.
+    LD&C is an Open Access journal.
 
 - [Living languages/Lenguas vivas/Línguas vivas journal](https://scholarworks.umass.edu/livinglanguages/)
 
-“Living Languages is an international, multilingual journal dedicated to topics in language revitalization and sustainability. The goal of the journal is to promote scholarly work and experience-sharing in the field. The primary focus is on bringing together language revitalization practitioners from a diversity of backgrounds, whether academic or not, within a peer-reviewed publication venue that is not limited to academic contributions and is inclusive of a diversity of perspectives and forms of expression.”
+    “Living Languages is an international, multilingual journal dedicated to topics in language revitalization and sustainability. The goal of the journal is to promote scholarly work and experience-sharing in the field. The primary focus is on bringing together language revitalization practitioners from a diversity of backgrounds, whether academic or not, within a peer-reviewed publication venue that is not limited to academic contributions and is inclusive of a diversity of perspectives and forms of expression.”
 
-*Living Languages* is an Open Access journal.
+    *Living Languages* is an Open Access journal.
 
 - [Pacific Linguistics](http://sealang.net/archives/pl/): a digital archive of many Pacific Linguistics publications up to 2012.
 
