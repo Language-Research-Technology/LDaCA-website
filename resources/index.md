@@ -1,6 +1,6 @@
 # Resources
 
-[Indigenous Knowledge](#indigenous-knowledge) &emsp; [Ethics](#ethics) &emsp; [Language Archives](#language-archives) &emsp; [Tools](#tools) &emsp; [Publications](#publications) &emsp; [Languages of the World](#languages-of-the-world) &emsp; [Australian Organisations](#australian-organisations)
+[Indigenous Knowledge](#indigenous-knowledge) &emsp; [Ethics](#ethics) &emsp; [Language Archives](#language-archives) &emsp; [Tools](#tools) &emsp; [Publications](#publications) &emsp; [Languages of the World](#languages-of-the-world) &emsp; [Australian Organisations](#australian-organisations) &emsp; [International Organisations](#international-organisations)
 ### Indigenous knowledge 
 
 [Protocols](https://australiacouncil.gov.au/wp-content/uploads/2021/07/protocols-for-using-first-nati-5f72716d09f01.pdf) for using First Nations Cultural and Intellectual Property in the Arts (Australia Council)
@@ -60,6 +60,7 @@ The Living Archive of Aboriginal Languages is a digital archive of endangered li
 - [FieldWorks](https://software.sil.org/fieldworks/): Software tools for managing linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.
 - [Toolbox](https://software.sil.org/toolbox/): Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
 - [Mukurtu](https://mukurtu.org/): A grassroots project aiming to empower communities to manage, share, and exchange their digital heritage in culturally relevant and ethically-minded ways.
+-  [AntConc](https://www.laurenceanthony.net/software/antconc/): A freeware corpus analysis toolkit for concordancing and text analysis.
 
 ### Publications
 
@@ -100,4 +101,16 @@ LD&C is an Open Access journal.
 
 - The Applied Linguistics Association of Australia ([ALAA](https://alaa.net.au/)) is the national professional organisation for applied linguistics in Australia. We welcome academics, teachers, researchers, students and members of the wider community to join us and become part of an active community interested in questions, issues and problems that can be understood and addressed through a focus on language in our world.
 
-- 
+- The Australasian Langauge Technology Association ([ALTA](https://www.alta.asn.au/index.html)) has the purpose of promoting language technology research and development in Australia and New Zealand.
+
+- The Australasian Speech Science and Technology Association ([ASSTA](https://assta.org/)) is a scientific association which aims to advance the understanding of speech science and its application to speech technology in a way that is appropriate for Australia and New Zealand.
+
+- The Australian Institute of Aboriginal and Torres Strait Islander Studies ([AIATSIS](https://aiatsis.gov.au/)) is an Indigenous-led, national institute that celebrates, educates and inspires people from all walks of life to connect with the knowledge, heritage and cultures of Australia’s First Peoples.
+
+### International Organisations
+
+- Common Language Resources and Technology Infrastructure ([CLARIN](https://www.clarin.eu/)) is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through an online environment for the support of researchers in the humanities and social sciences.
+
+- Endangered Languages Documentation Program ([ELDP](https://www.eldp.net/)) supports the documentation and preservation of endangered languages through granting, training and outreach activities. The collections compiled through our funding are freely accessible at the [Endangered Languages Archive](#language-archives).
+
+- The Linguistic Data Consortium ([LDC](https://www.ldc.upenn.edu/)) is an open consortium of universities, libraries, corporations and government research laboratories. LDC was formed in 1992 to address the critical data shortage then facing language technology research and development. Initially, LDC's primary role was as a repository and distribution point for language resources. but with the help of its members, LDC has grown into an organization that creates and distributes a wide array of language resources. 
