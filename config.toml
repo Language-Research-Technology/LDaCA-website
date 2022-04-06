@@ -1,9 +1,10 @@
 baseURL = ""
+canonifyURLs = true
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
-title = "LDaCa - Language Data Commons of Australia"
+title = "LDaCA - Language Data Commons of Australia"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
@@ -12,7 +13,7 @@ theme = "LoveIt"
   #  LoveIt theme version
   version = "0.2.X"
   # site description
-  description = "Introducing LDaCa - the Language Data Commons of Australia."
+  description = "Introducing ATAP - the Australian Text Analytics Platform."
   # site keywords
   keywords = ["Theme", "Hugo"]
   # site default theme ("light", "dark", "auto")
@@ -58,7 +59,9 @@ theme = "LoveIt"
 [params.page.share]
       enable = true
       Twitter = true
-
+#  enable nested menus
+[params.nested_menus]
+      enable = true
 
 [taxonomies]
   tag = 'tags'
@@ -73,9 +76,9 @@ theme = "LoveIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Home"
-    url = ""
+    url = "index.html"
     # title will be shown when you hover on this menu link
-    title = ""
+    title = "Home"
     weight = 1
   [[menu.main]]
     identifier = "blog posts"
@@ -96,6 +99,51 @@ theme = "LoveIt"
     url = "data/"
     title = "Language Data"
     weight = 3
+  [[menu.main]]
+    identifier = "principles"
+    pre = ""
+    post = ""
+    name = "Principles"
+    url = "/principles/"
+    title = "Principles"
+    weight = 1
+    parent = "language data"
+  [[menu.main]]
+    identifier = "technologies"
+    pre = ""
+    post = ""
+    name = "Technologies"
+    url = "/technologies/"
+    title = "Technologies"
+    weight = 2
+    parent = "language data"
+     [[menu.main]]
+    identifier = "metadata"
+    pre = ""
+    post = ""
+    name = "Metadata"
+    url = "/metadata/"
+    title = "Metadata"
+    weight = 3
+    parent = "language data"
+  [[menu.main]]
+    identifier = "sample-collections"
+    pre = ""
+    post = ""
+    name = "Sample Collections"
+    url = "/collections/"
+    title = "Sample Collections"
+    weight = 4
+    parent = "language data"
+    [[menu.main]]
+    identifier = "case-studies"
+    pre = ""
+    post = ""
+    name = "Case Studies"
+    url = "/case-studies/"
+    title = "Case Studies"
+    weight = 5
+    parent = "language data"
   [[menu.main]]
     identifier = "resources"
     pre = ""
@@ -145,9 +193,9 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "Language Data Commons of Australia"
-  email = "info @ ldaca.edu.au"
-  link = "http://www.ldaca.edu.au"
+  name = "Australian Text Analytics Platform"
+  email = "info @ atap.edu.au"
+  link = "http://www.atap.edu.au"
 
 # Sitemap config
 [sitemap]
@@ -189,5 +237,3 @@ theme = "LoveIt"
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   taxonomyTerm = ["HTML"]
-
-

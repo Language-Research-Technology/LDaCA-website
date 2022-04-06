@@ -2,7 +2,7 @@
 <header class="desktop" id="header-desktop">
     <div class="header-wrapper">
         <div class="header-title">
-            <img src="{{ .Site.BaseURL }}/LDaCA_logo-sm.png" alt="LDaCa - Language Data Commons of Australia logo" width="456px" height="224px"/>
+            <img src="{{ .Site.BaseURL }}/LDaCA_logo-sm.png" alt="LDaCa - Language Data Commons of Australia logo" width="302px" height="150px"/>
             
             <!-- Section removed to allow logo image.
             
@@ -36,9 +36,25 @@
                     {{- with .Page -}}
                         {{- $url = .RelPermalink -}}
                     {{- end -}}
-                    <a class="menu-item{{ if $.IsMenuCurrent `main` . | or ($.HasMenuCurrent `main` .) | or (eq $.RelPermalink $url) }} active{{ end }}" href="{{ $url }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if (urls.Parse $url).Host }} rel="noopener noreffer" target="_blank"{{ end }}>
-                        {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
-                    </a>
+                    <div class="menu-item{{ if $.IsMenuCurrent `main` . | or ($.HasMenuCurrent `main` .) | or (eq $.RelPermalink $url) }} active{{ end }}">
+                        {{ if (eq $url "/") }}
+                            <div class="menu-item-text">{{ .Name }}</div>
+                        {{ else }}
+                            <a class="menu-item-text" href="{{ $url }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if (urls.Parse $url).Host }} rel="noopener noreffer" target="_blank"{{ end }}>
+                                {{- .Pre | safeHTML }} {{ .Name }} {{ .Post | safeHTML -}}
+                            </a>
+                        {{ end }}
+                        {{ if .HasChildren }}
+                            <ol class="submenu">
+                                {{ range .Children }}
+                                    <li class="submenu-item">
+                                        <a href="{{ .URL }}"> {{ .Name }}</a>
+                                    </li>
+                                {{ end }}
+                            </ol>
+                        {{ end }}
+                    </div>
+
                 {{- end -}}
                 {{- if .Site.Menus.main -}}
                     <span class="menu-item delimiter"></span>

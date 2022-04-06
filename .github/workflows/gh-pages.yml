@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify --baseURL https://language-research-technology.github.io/LDaCA-website/
+        run: hugo --minify --baseURL https://www.atap.edu.au/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -30,4 +30,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          # cname: ldaca.edu.au
+          cname: www.atap.edu.au

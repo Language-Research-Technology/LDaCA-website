@@ -5,7 +5,7 @@
 
 // _variables.scss customisation
 // Height of the header
-$header-height: 1rem;
+$header-height: 10rem;
 
 // Color of the header background
 $header-background-color: #ffffff;
@@ -56,7 +56,7 @@ body {
 
 img.homepage {
     margin-left: 40px;
-    padding-bottom: 50px;
+    padding-bottom: 50px;;
 }
 
 hr.dots {
@@ -99,12 +99,6 @@ h3.custom {
     max-height: 400px;
     overflow: scroll;
  }
-
-// ========== Variable Overrides ========== //
-
-// Height of the header
-$header-height: 20.5rem;
-
 // Color of the secondary text
 $global-font-secondary-color: #e34e25;
 $global-font-secondary-color-dark: #e34e25;

@@ -50,6 +50,7 @@ The LDaCA project received investment from ARDC through two of its programs:
 - Marco La Rosa
 - Michael D’Silva (AARNet)
 - River Smith
+- Alvin Sebastian
 
 ### Applications and Training Team
 
@@ -63,6 +64,8 @@ The LDaCA project received investment from ARDC through two of its programs:
 **Lead: Kathrin Kaiser**
 
 - Cale Johnstone
+- Maria Weaver
+- Adam Bell (AARNet)
 
 ### Engagement and Outreach Team
 

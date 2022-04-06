@@ -163,7 +163,6 @@ header {
     }
 
     .menu {
-      overflow: hidden;
       white-space: nowrap;
 
       .menu-inner {
@@ -172,6 +171,28 @@ header {
 
       .menu-item {
         margin: 0 .5rem;
+
+        display: inline-block;
+        position: relative;
+
+        .submenu {
+          margin: 0;
+          line-height: normal;
+
+          display: none;
+          position: absolute;
+
+          background-color: white;
+          border-radius: 5px;
+          border: 1px grey solid;
+          list-style-type: none;
+          top: 70%;
+          padding: 12px 12px;
+        }
+
+        &:hover .submenu {
+          display: block;
+        }
 
         &.delimiter {
           border-left: 1.5px solid $global-font-color;
@@ -188,14 +209,19 @@ header {
         &.search {
           margin: 0 -.5rem 0 0;
         }
-      }
 
-      a.active {
-        font-weight: 900;
-        color: $header-hover-color;
+        &.active a {
+          font-weight: 900;
+          color: $header-hover-color;
+  
+          [theme=dark] & {
+            color: $header-hover-color-dark;
+          }
+        }
 
-        [theme=dark] & {
-          color: $header-hover-color-dark;
+        .menu-item-text {
+          @extend a;
+          display: inline;
         }
       }
     }

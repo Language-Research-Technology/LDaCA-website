@@ -1,4 +1,4 @@
-#README for the LDaCA website
+#README for the ATAP website
 
 The theme used is [LoveIt theme](https://hugoloveit.com/){:target="_blank"} and has been customised throughout. The theme installation is a sub-module and alterations have been made in many different places.
 
@@ -31,10 +31,17 @@ These instructions are for after your own local .git has been set up. The repo u
 To push changes to the repo. Check first with 'code' git status 
 to check what changes have been made.
 
+```bash
 git add .
 git commit -m " Whatever notes describe the changes in the commit "
 git push
+```
 
 If the submodule needs to be updated, run the following git command:
-'code' git submodule update --init --recursive
+ 
+```bash
+git submodule update --init --recursive
+```
+##Working with a local version
 
+If you want to work on pages on your own computer, you will need to clone the github repo and also have Hugo installed on your machine. Be sure to install the **extended** version of Hugo (some things do not work properly in the regular version).

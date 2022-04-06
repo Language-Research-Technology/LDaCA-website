@@ -68,9 +68,10 @@
 }
 
 .archive-item-date {
-  width: 6em;
+  width: 8em;
   text-align: right;
   color: $global-font-secondary-color;
+  //background-color: yellow;
 
   [theme=dark] & {
     color: $global-font-secondary-color-dark;
