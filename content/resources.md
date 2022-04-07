@@ -3,7 +3,19 @@ title: "Resources"
 date: 2022-02-15T17:13:28+10:00
 draft: false
 ---
-[Indigenous Knowledge](#indigenous-knowledge) &emsp; [Ethics](#ethics) &emsp; [Language Archives](#language-archives) &emsp; [Tools](#tools) &emsp; [Publications](#publications) &emsp; [Languages of the World](#languages-of-the-world) &emsp; [Australian Organisations](#australian-organisations) &emsp; [International Organisations](#international-organisations)
+##### [Indigenous Knowledge](#indigenous-knowledge)
+##### [Ethics](#ethics)
+##### [Languages of the World](#languages-of-the-world)
+##### [Language Archives](#language-archives)
+##### [Australian Organisations](#australian-organisations)
+##### [International Organisations](#international-organisations)
+##### [Publications](#publications)
+##### [Tools](#tools)
+
+
+<hr class="dots" />
+
+
 ### Indigenous knowledge 
 
 - [Protocols](https://australiacouncil.gov.au/wp-content/uploads/2021/07/protocols-for-using-first-nati-5f72716d09f01.pdf) for using First Nations Cultural and Intellectual Property in the Arts (Australia Council)
@@ -45,6 +57,16 @@ draft: false
     - [Ethics Statement 2019](https://www.linguisticsociety.org/content/lsa-revised-ethics-statement-approved-july-2019)
     - [Further resources](https://www.linguisticsociety.org/resource/ethics-further-resources)
 
+### Languages of the world
+
+- [Glottolog](https://glottolog.org/): Comprehensive reference information for the world's languages, especially the lesser known languages. LDaCA uses Glottolog [language codes](../metadata/#glottologhttpsglottologorg) in our metadata. 
+
+- Open Language Archives Community ([OLAC](http://www.language-archives.org/)) is an international partnership of institutions and individuals who are creating a worldwide virtual library of language resources by: (i) developing consensus on best current practice for the digital archiving of language resources, and (ii) developing a network of interoperating repositories and services for housing and accessing such resources. OLAC harvests metadata and their web site has a search facility to find resources for languages. OLAC [metadata recommendations](../metadata/#olachttpwwwlanguage-archivesorg) are the basis for some of LDaCA's metadata.
+
+- [Ethnologue](https://www.ethnologue.com/): *Ethnologue* provides information about the languages of the world, but operates on a subscription model. The information which is available without a subscription is very limited: the first three lines of individual language entries which include the ISO 639-3 code, the classification of the language into a language family, and a link to the language’s OLAC page.
+
+- The World Atlas of Linguistic Structures Online ([WALS](https://wals.info/)) is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
+
 ### Language Archives
 
 - [LAAL](https://livingarchive.cdu.edu.au/): 
@@ -55,15 +77,25 @@ The Living Archive of Aboriginal Languages is a digital archive of endangered li
 - [Kaipuleohone Language Archive](http://ling.hawaii.edu/kaipuleohone-language-archive/): Kaipuleohone is the digital language archive of the University of Hawaiʻi. Founded in 2008, the archive houses texts, images, audio, and video collected from around the world by linguists, anthropologists, ethnomusicologists, and more. Our collection includes a wealth of photographs, notes, dictionaries, transcriptions, and other materials related to small and endangered languages.
 - [DELAMAN](https://www.delaman.org/): The Digital Endangered Languages and Musics Archive is an international network of archives of data on linguistic and cultural diversity, in particular on small languages and cultures under pressure.
 
-### Tools
+### Australian Organisations
 
-- [Audacity](https://www.audacityteam.org/): Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
-- [ELAN](https://archive.mpi.nl/tla/elan): a tool for making time-aligned annotations on audio and video recordings.
-- [Praat](https://www.fon.hum.uva.nl/praat/): Free software for doing phonetics by computer.
-- [FieldWorks](https://software.sil.org/fieldworks/): Software tools for managing linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.
-- [Toolbox](https://software.sil.org/toolbox/): Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
-- [Mukurtu](https://mukurtu.org/): A grassroots project aiming to empower communities to manage, share, and exchange their digital heritage in culturally relevant and ethically-minded ways.
--  [AntConc](https://www.laurenceanthony.net/software/antconc/): A freeware corpus analysis toolkit for concordancing and text analysis.
+- The Australian Linguistic Society ([ALS](https://als.asn.au/Home)) is the national organisation for linguists and linguistics in Australia. Its primary goal is to further interest in and support for linguistics research and teaching in Australia.
+
+- The Applied Linguistics Association of Australia ([ALAA](https://alaa.net.au/)) is the national professional organisation for applied linguistics in Australia. We welcome academics, teachers, researchers, students and members of the wider community to join us and become part of an active community interested in questions, issues and problems that can be understood and addressed through a focus on language in our world.
+
+- The Australasian Langauge Technology Association ([ALTA](https://www.alta.asn.au/index.html)) has the purpose of promoting language technology research and development in Australia and New Zealand.
+
+- The Australasian Speech Science and Technology Association ([ASSTA](https://assta.org/)) is a scientific association which aims to advance the understanding of speech science and its application to speech technology in a way that is appropriate for Australia and New Zealand.
+
+- The Australian Institute of Aboriginal and Torres Strait Islander Studies ([AIATSIS](https://aiatsis.gov.au/)) is an Indigenous-led, national institute that celebrates, educates and inspires people from all walks of life to connect with the knowledge, heritage and cultures of Australia’s First Peoples.
+
+### International Organisations
+
+- Common Language Resources and Technology Infrastructure ([CLARIN](https://www.clarin.eu/)) is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through an online environment for the support of researchers in the humanities and social sciences.
+
+- Endangered Languages Documentation Program ([ELDP](https://www.eldp.net/)) supports the documentation and preservation of endangered languages through granting, training and outreach activities. The collections compiled through our funding are freely accessible at the [Endangered Languages Archive](#language-archives).
+
+- The Linguistic Data Consortium ([LDC](https://www.ldc.upenn.edu/)) is an open consortium of universities, libraries, corporations and government research laboratories. LDC was formed in 1992 to address the critical data shortage then facing language technology research and development. Initially, LDC's primary role was as a repository and distribution point for language resources. but with the help of its members, LDC has grown into an organization that creates and distributes a wide array of language resources. 
 
 ### Publications
 
@@ -88,32 +120,13 @@ Edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, Lauren B. Coll
 
 - [Pacific Linguistics](http://sealang.net/archives/pl/): a digital archive of many Pacific Linguistics publications up to 2012.
 
-### Languages of the world
+### Tools
 
-- [Glottolog](https://glottolog.org/): Comprehensive reference information for the world's languages, especially the lesser known languages. LDaCA uses Glottolog [language codes](../metadata/#glottologhttpsglottologorg) in our metadata. 
+- [Audacity](https://www.audacityteam.org/): Audacity is a free, easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+- [ELAN](https://archive.mpi.nl/tla/elan): a tool for making time-aligned annotations on audio and video recordings.
+- [Praat](https://www.fon.hum.uva.nl/praat/): Free software for doing phonetics by computer.
+- [FieldWorks](https://software.sil.org/fieldworks/): Software tools for managing linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.
+- [Toolbox](https://software.sil.org/toolbox/): Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
+- [Mukurtu](https://mukurtu.org/): A grassroots project aiming to empower communities to manage, share, and exchange their digital heritage in culturally relevant and ethically-minded ways.
+-  [AntConc](https://www.laurenceanthony.net/software/antconc/): A freeware corpus analysis toolkit for concordancing and text analysis.
 
-- Open Language Archives Community ([OLAC](http://www.language-archives.org/)) is an international partnership of institutions and individuals who are creating a worldwide virtual library of language resources by: (i) developing consensus on best current practice for the digital archiving of language resources, and (ii) developing a network of interoperating repositories and services for housing and accessing such resources. OLAC harvests metadata and their web site has a search facility to find resources for languages. OLAC [metadata recommendations](../metadata/#olachttpwwwlanguage-archivesorg) are the basis for some of LDaCA's metadata.
-
-- [Ethnologue](https://www.ethnologue.com/): *Ethnologue* provides information about the languages of the world, but operates on a subscription model. The information which is available without a subscription is very limited: the first three lines of individual language entries which include the ISO 639-3 code, the classification of the language into a language family, and a link to the language’s OLAC page.
-
-- The World Atlas of Linguistic Structures Online ([WALS](https://wals.info/)) is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
-
-### Australian Organisations
-
-- The Australian Linguistic Society ([ALS](https://als.asn.au/Home)) is the national organisation for linguists and linguistics in Australia. Its primary goal is to further interest in and support for linguistics research and teaching in Australia.
-
-- The Applied Linguistics Association of Australia ([ALAA](https://alaa.net.au/)) is the national professional organisation for applied linguistics in Australia. We welcome academics, teachers, researchers, students and members of the wider community to join us and become part of an active community interested in questions, issues and problems that can be understood and addressed through a focus on language in our world.
-
-- The Australasian Langauge Technology Association ([ALTA](https://www.alta.asn.au/index.html)) has the purpose of promoting language technology research and development in Australia and New Zealand.
-
-- The Australasian Speech Science and Technology Association ([ASSTA](https://assta.org/)) is a scientific association which aims to advance the understanding of speech science and its application to speech technology in a way that is appropriate for Australia and New Zealand.
-
-- The Australian Institute of Aboriginal and Torres Strait Islander Studies ([AIATSIS](https://aiatsis.gov.au/)) is an Indigenous-led, national institute that celebrates, educates and inspires people from all walks of life to connect with the knowledge, heritage and cultures of Australia’s First Peoples.
-
-### International Organisations
-
-- Common Language Resources and Technology Infrastructure ([CLARIN](https://www.clarin.eu/)) is a research infrastructure that was initiated from the vision that all digital language resources and tools from all over Europe and beyond are accessible through an online environment for the support of researchers in the humanities and social sciences.
-
-- Endangered Languages Documentation Program ([ELDP](https://www.eldp.net/)) supports the documentation and preservation of endangered languages through granting, training and outreach activities. The collections compiled through our funding are freely accessible at the [Endangered Languages Archive](#language-archives).
-
-- The Linguistic Data Consortium ([LDC](https://www.ldc.upenn.edu/)) is an open consortium of universities, libraries, corporations and government research laboratories. LDC was formed in 1992 to address the critical data shortage then facing language technology research and development. Initially, LDC's primary role was as a repository and distribution point for language resources. but with the help of its members, LDC has grown into an organization that creates and distributes a wide array of language resources. 

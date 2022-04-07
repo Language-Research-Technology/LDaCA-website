@@ -11,7 +11,7 @@ The LDaCA project received investment from ARDC through two of its programs:
 2. HASS Research Data Commons and Indigenous Research Capability Program: Capitalising on existing infrastructure, securing vulnerable and dispersed collections and linking with improved analysis environments for new research outcomes ([HASS-RDC](https://ardc.edu.au/news/announcing-3-successful-projects-ardc-hass-rdc/)).
 
 <br />
-<hr />
+<hr class="dots" />
 <br />
 
 ## Partner Institutions:
