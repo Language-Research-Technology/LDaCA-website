@@ -1,13 +1,13 @@
 # Resources
 
-##### [Indigenous Knowledge](#indigenous-knowledge)
-##### [Ethics](#ethics)
-##### [Languages of the World](#languages-of-the-world)
-##### [Language Archives](#language-archives)
-##### [Australian Organisations](#australian-organisations)
-##### [International Organisations](#international-organisations)
-##### [Publications](#publications)
-##### [Tools](#tools)
+- [Indigenous Knowledge](#indigenous-knowledge)
+- [Ethics](#ethics)
+- [Languages of the World](#languages-of-the-world)
+- [Language Archives](#language-archives)
+- [Australian Organisations](#australian-organisations)
+- [International Organisations](#international-organisations)
+- [Publications](#publications)
+- [Tools](#tools)
 
 
 <hr class="dots" />
@@ -17,10 +17,12 @@
 
 - [Protocols](https://australiacouncil.gov.au/wp-content/uploads/2021/07/protocols-for-using-first-nati-5f72716d09f01.pdf) for using First Nations Cultural and Intellectual Property in the Arts (Australia Council)
 
-- Citing indigenous elders and knowledge keepers
+- Citing Indigenous elders and knowledge keepers
     - [Templates For Citing Indigenous Elders and Knowledge Keepers](https://kula.uvic.ca/index.php/kula/article/view/135) (Lorisia Macleod)
     - University of Alberta Library's [Guide](https://guides.library.ualberta.ca/c.php?g=715568&p=5112574)
     - University of Alberta Library's [blog](https://news.library.ualberta.ca/blog/2022/01/27/citing-indigenous-elders-and-knowledge-keepers/)
+
+- [TK Labels](https://localcontexts.org/labels/traditional-knowledge-labels/): Traditional Knowledge labels are an initiative for Indigenous communities and local organizations. Developed through sustained partnership and testing within Indigenous communities across multiple countries, the Labels allow communities to express local and specific conditions for sharing and engaging in future research and relationships in ways that are consistent with already existing community rules, governance and protocols for using, sharing and circulating knowledge and data.
  
 - Decolonising linguistics: [Spinning a better yarn](https://www.dynamicsoflanguage.edu.au/ialr/decolonising-linguistics-spinning-a-better-yarn/) 
 
@@ -28,13 +30,14 @@
 
 #### Indigenous Languages of Australia
 
-- [Austlang](https://collection.aiatsis.gov.au/austlang/about): AustLang provides a controlled vocabulary of persistent identifiers, a thesaurus of languages and peoples, and information about Aboriginal and Torres Strait Islander languages which has been assembled from referenced sources.
 - [First Languages Australia](https://www.firstlanguages.org.au/): First Languages Australia encourages communication between communities, the government and key partners whose work can impact Aboriginal and Torres Strait Islander languages.
 - [Living Languages](https://www.livinglanguages.org.au/): Living Languages provides grassroots training to people, communities and Language Centres in Australia doing language work on the ground in remote, regional and urban areas.
 - Language Centres: The Indigenous Languages and Arts (ILA) program  currently supports a number of organisations, including a network of 20 language centres. A list of these centres is available from [this page](https://www.arts.gov.au/documents/indigenous-languages-and-arts-program-language-centres) (pdf or docx format). 
+- [Austlang](https://collection.aiatsis.gov.au/austlang/about): AustLang provides a controlled vocabulary of persistent identifiers, a thesaurus of languages and peoples, and information about Aboriginal and Torres Strait Islander languages which has been assembled from referenced sources.
 - [Nyingarn](https://nyingarn.net/): a platform for primary sources in Australian Indigenous languages 
 - [Digital Daisy Bates](https://bates.org.au/): a collection of over 23,000 pages of wordlists of Australian languages, originally recorded by Daisy Bates in the early 1900s, made up of the original questionnaires and around 4,000 pages of typescripts.
 - [50 Words Project](https://50words.online/): The 50 Words Project showcases words from 64 languages across Australia, with further languages being added regularly as more communities around Australia become involved. For each language you can hear the words spoken via a map that shows the general location of the language.
+- [Gambay](https://www.abc.net.au/indigenous/gambay-languages-map): a map of Australia's first languages.
 - [Australian Indigenous language collections](https://www.nla.gov.au/research-guides/indigenous-language-resources#): a guide to materials held in the National Library of Australia, with links to similar resources at State Libraries. 
 - Living Archive of Australian Languages: see [below](#language-archives)
 -  Contemporary and Historical Reconstruction in the Indigenous Languages of Australia ([CHIRILA](http://www.pamanyungan.net/chirila/)): CHIRILA is a lexical database (a database with words from different languages). Currently there are about 780,000 words, from all over Australia, of which about 20% is publicly available.
@@ -124,7 +127,6 @@ Edited by Andrea L. Berez-Kroeker, Bradley McDonnell, Eve Koller, Lauren B. Coll
 - [Praat](https://www.fon.hum.uva.nl/praat/): Free software for doing phonetics by computer.
 - [FieldWorks](https://software.sil.org/fieldworks/): Software tools for managing linguistic and cultural data. FieldWorks supports tasks ranging from the initial entry of collected data through to the preparation of data for publication, including dictionary development, interlinearization of texts, morphological analysis, and other publications.
 - [Toolbox](https://software.sil.org/toolbox/): Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data.
-- [Mukurtu](https://mukurtu.org/): A grassroots project aiming to empower communities to manage, share, and exchange their digital heritage in culturally relevant and ethically-minded ways.
 -  [AntConc](https://www.laurenceanthony.net/software/antconc/): A freeware corpus analysis toolkit for concordancing and text analysis.
 
 
