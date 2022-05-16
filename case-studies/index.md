@@ -2,6 +2,9 @@
 
 ## Fieldwork in Papua New Guinea
 <br />
+
+Harriet Sheppard's [account](../fieldwork-png) of collecting data on a remote island in Papua New Guinea.
+
 <br />
 
 ## Fieldwork in Sydney
