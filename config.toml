@@ -144,6 +144,15 @@ theme = "LoveIt"
     title = "Case Studies"
     weight = 5
     parent = "language data"
+    [[menu.main]]
+    identifier = "fieldwork-png"
+    pre = ""
+    post = ""
+    name = "Fieldwork PNG"
+    url = "/fieldwork-png/"
+    title = "Fieldwork PNG"
+    weight = 5
+    parent = "case studies"
   [[menu.main]]
     identifier = "resources"
     pre = ""

@@ -42,9 +42,18 @@ body {
 .page {
     //background-color: #662288; //purple
     margin-top: 100px;
+
     padding: 100px;
+
+    @media screen and (max-width: $breakpoint-md) {
+        padding: unset;
+    }
+
     //Commented out in _index.scss to force _override.scss to work
     max-width: 65%;
+    @media screen and (max-width: $breakpoint-md) {
+        max-width: none;
+    }
 }
 
 .home {
@@ -52,6 +61,9 @@ body {
     width: 80%;
     margin-top: 100px;
     padding: 100px;
+    @media screen and (max-width: $breakpoint-md) {
+        padding: unset;
+    }
 }
 
 img.homepage {
