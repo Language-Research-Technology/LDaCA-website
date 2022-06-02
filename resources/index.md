@@ -57,6 +57,10 @@
     - [Ethics Statement 2019](https://www.linguisticsociety.org/content/lsa-revised-ethics-statement-approved-july-2019)
     - [Further resources](https://www.linguisticsociety.org/resource/ethics-further-resources)
 
+- [Tromsø recommendations for citation of research data in linguistics](https://www.rd-alliance.org/group/linguistics-data-ig/outcomes/troms%C3%B8-recommendations-citation-research-data-linguistics)
+
+    Language and linguistics datasets are often not cited, or cited imprecisely, because of confusion surrounding the proper methods for citing them. For the use of researchers and scholars in the field working with datasets, the Tromsø recommendations propose components of data citation for referencing language data, both in the bibliography and in the text of linguistics publications. 
+
 ### Languages of the world
 
 - [Glottolog](https://glottolog.org/): Comprehensive reference information for the world's languages, especially the lesser known languages. LDaCA uses Glottolog [language codes](../metadata/#glottologhttpsglottologorg) in our metadata. 
