@@ -2,6 +2,10 @@
 
 This is the source repository for the LDaCA website
 
+## Audience / prerequisites
+
+This is for members of the LDaCA project who have experience with git, commandline tools and markdown.
+
 
 ## Installation for development
 
