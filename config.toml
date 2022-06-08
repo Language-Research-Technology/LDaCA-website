@@ -9,6 +9,8 @@ title = "LDaCA - Language Data Commons of Australia"
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
 
+enableRobotsTXT = true
+
 [params]
   #  LoveIt theme version
   version = "0.2.X"
