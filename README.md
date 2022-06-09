@@ -1,4 +1,31 @@
-#README for the ATAP website
+## About
+
+This is the source repository for the LDaCA website
+
+## Audience / prerequisites
+
+This is for members of the LDaCA project who have experience with git, commandline tools and markdown.
+
+
+## Installation for development
+
+Clone this repository, eg
+
+```bash
+cd ~/working
+git clone git@github.com:Language-Research-Technology/LDaCA-website.git 
+cd LDaCA-website
+git submodule update --init --recursive
+
+```
+
+To update the site use Hugo
+
+-  Install Hugo for your platform eg on a mac `brew install hugo`
+-  Run hugo: `hugo serve` 
+   This will start a webserver on http://localhost that will update automatically when you add or change content.
+
+## Notes on the theme
 
 The theme used is [LoveIt theme](https://hugoloveit.com/){:target="_blank"} and has been customised throughout. The theme installation is a sub-module and alterations have been made in many different places.
 
@@ -8,9 +35,9 @@ The theme used is [LoveIt theme](https://hugoloveit.com/){:target="_blank"} and 
 
 Because the theme is installed as a sub-module - do not manually commit this to the ATAP-website repo or make any changes in the theme itself. Moises will probably cry if this happens again (Leah has already accidentally pushed him to the edge!)
 
-##Adding and changing content
+## Adding and changing content
 
-There shouldn't be any more layout changes needed to the site. 
+
 
 All the content is in markdown files in the content folder. The
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/){:target="_blank"} is very helpful when formatting using markdown! HTML tags can also be used for formatting, just be aware that HTML and markdown often don't play nicely without a blank line in between them. The [LoveIt Extended Shortcodes](https://hugoloveit.com/theme-documentation-extended-shortcodes/){:target="_blank"} page may help with some of this as well.
@@ -20,9 +47,9 @@ New markdown pages created in the content folder will need to be linked to from 
 Use the front matter! Drafts need to be set to false, otherwise they won't show up on the site. There are two taxonomies defined for classifying content and getting it to show up in the search. 
 
 All the images are stored in the static folder. To display on a page use
-{{ .Site.BaseURL }}/ImageName.png within the appropriate HTML tags or markdown.
+{{ .Site.BaseURL }}/ImageName.png within the appropriate HTML tags or markdown, or put content in a directory with its images and reference the images using relative paths.
 
-##Committing those changes
+## Committing those changes
 
 All commits should go to the master branch of the ATAP-website repository. There is a workflow that pushes master commits to the the gh-pages branch automatically.
 
