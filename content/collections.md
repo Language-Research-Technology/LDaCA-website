@@ -9,8 +9,6 @@ LDaCA has begun ingesting data sets, including:
 - [Sydney Speaks](https://www.dynamicsoflanguage.edu.au/sydney-speaks/): This project seeks to document and explore Australian English, as spoken in Australia’s largest and most ethnically and linguistically diverse city – Sydney. 
 - [From Farms to Freeways](http://omeka.uws.edu.au/farmstofreeways/): This research project sought to analyse the experiences of women who had lived in the Blacktown and Penrith areas since the early 1950s, including their responses to social changes brought about by rapid suburbanisation in the Western Sydney region in the post-war period. Two-hour taped discussions were held with 34 women, aged sixty and over, who were in their early twenties during the Western Sydney region's population growth.
 
-These datasets can be explored through the development version of the [LDaCA search interface](https://data-dev.ldaca.edu.au/search). Simple access control is implemented in this prototype; this applies to data from Sydney Speaks which is not freely accessible. 
-
-In the interface, you will also see information about a collection of government documents in various languages. This a very small dataset assembled to check that our technology can handle different languages and different scripts; more information about this work is available in [this presentation](https://ptsefton.com/2022/01/27/DAMTA_Slides_v1/index.html).
+We have also ingested a collection of government documents in various languages. This a very small dataset assembled to check that our technology can handle different languages and different scripts; more information about this work is available in [this presentation](https://ptsefton.com/2022/01/27/DAMTA_Slides_v1/index.html).
 
 Back to [Language Data](../data/)
