@@ -70,7 +70,7 @@ The LDaCA project received investment from ARDC through two of its programs:
 
 - Sara King (AARNet)
 - Leah Gustafson
-- Harriet Shepard
+- Harriet Sheppard
 
 <br />
 
