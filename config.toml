@@ -55,7 +55,7 @@ enableRobotsTXT = true
 
 # Social config about the author
   [params.social]
-    Twitter = "@LTR_Aus"
+    Twitter = "@LDaCA_Program"
       
 #  social share links in post page
 [params.page.share]
